@@ -19,7 +19,6 @@ def speak_to_grandma(str)
     elsif str = "WHAT DID YOU EAT TODAY?"
       return "NO, NOT SINCE 1938!"
     end
-  else
-    return "NO, NOT SINCE 1938!"
   end
+  return "NO, NOT SINCE 1938!"
 end
