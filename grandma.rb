@@ -20,5 +20,5 @@ def speak_to_grandma(str)
       return "NO, NOT SINCE 1938!"
     end
   end
-  return "NO, NOT SINCE 1938!"
+  return "HUH?! SPEAK UP, SONNY!"
 end
